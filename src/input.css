@@ -5,5 +5,5 @@
 html,
 body,
 #root {
-  @apply bg-black text-white box-border
+  @apply bg-mainBg text-white box-border
 }
