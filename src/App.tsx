@@ -11,4 +11,4 @@ function App() {
 export default App
 
 //Tutorial for the canban board: https://www.youtube.com/watch?v=RG-3R6Pu_Ik
-//6:33//test//test
+//6:33
